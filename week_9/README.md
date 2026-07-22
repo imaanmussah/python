@@ -19,4 +19,4 @@ This application allows students to register IT support tickets and automaticall
 - Low → Ali
 
 ## Video demostration
-![Demo](![alt text](<ticket.py - python [Codespaces_ studious capybara] - Visual Studio Code and 3 more pages - Person 1 - Microsoft_ Edge 2026-07-22 11-49-50.gif>))
+![alt text](<ticket.py - python [Codespaces_ studious capybara] - Visual Studio Code and 3 more pages - Person 1 - Microsoft_ Edge 2026-07-22 11-49-50-1.gif>)
